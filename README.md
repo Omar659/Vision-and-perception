@@ -1,5 +1,5 @@
 # Vision-and-perception
-Vision and perception problem solved in the course at "La Sapienza Università di Roma"
+Vision and perception problem solved in a course at "La Sapienza Università di Roma"
 
 HW1 contain some vision things to find information in the images (see also answer.pdf for more info)
 
